@@ -1,0 +1,111 @@
+// Datos simulados para las iniciativas (debería ir en mock/initiatives.js)
+export const initiatives = [
+  {
+    id: 1,
+    name: 'Mi Primer Bitcoin – El Salvador',
+    instagramUser: '@myfirstbitcoin.io',
+    instagramLink: 'https://www.instagram.com/myfirstbitcoin.io/',
+    description: 'Pioneros en educación Bitcoin en El Salvador. Ofrecen el primer Diploma Bitcoin del mundo, con impacto nacional e internacional.',
+  },
+  {
+    id: 2,
+    name: 'Escuelita Bitcoin – Uruguay',
+    instagramUser: '@escuelitabitcoin',
+    instagramLink: 'https://www.instagram.com/escuelitabitcoin/',
+    description: 'Talleres gratuitos de Bitcoin y finanzas para niñas, niños, familias y docentes en zonas rurales de Uruguay.',
+  },
+  {
+    id: 3,
+    name: 'Escuelita Bitcoin – Paraguay (CriptoPY)',
+    instagramUser: '@cripto.py',
+    instagramLink: 'https://www.instagram.com/cripto.py/',
+    description: 'Educación Bitcoin desde Paraguay con enfoque comunitario y lúdico, articulando eventos y acciones en colegios e instituciones.',
+  },
+  {
+    id: 4,
+    name: 'LABITCONF',
+    instagramUser: '@labitconf',
+    instagramLink: 'https://www.instagram.com/labitconf/',
+    description: 'Conferencia de Bitcoin y Blockchain más importante de América Latina. Desde 2013 une educadores, desarrolladores y activistas.',
+  },
+  {
+    id: 5,
+    name: 'ONG Bitcoin Argentina',
+    instagramUser: '@ongbitcoinargentina',
+    instagramLink: 'https://www.instagram.com/ongbitcoinargentina/',
+    description: 'ONG dedicada a promover el uso responsable de Bitcoin a través de educación, investigación y eventos.',
+  },
+  {
+    id: 6,
+    name: 'Club del Bitcoin Perú',
+    instagramUser: '@clubdelbitcoinperuoficial',
+    instagramLink: 'https://www.instagram.com/clubdelbitcoinperuoficial/',
+    description: 'Comunidad activa que promueve la adopción de Bitcoin mediante charlas, cursos y asesoramiento a nuevos usuarios.',
+  },
+  {
+    id: 7,
+    name: 'La Crypta – Argentina',
+    instagramUser: '@lacryptaok',
+    instagramLink: 'https://www.instagram.com/lacryptaok/',
+    description: 'Espacio maximalista que educa sobre Bitcoin y soberanía financiera. Enfoque libertario y anti-inflación.',
+  },
+  {
+    id: 8,
+    name: 'Bitcoin Beach – El Salvador',
+    instagramUser: '@bitcoinbeach',
+    instagramLink: 'https://www.instagram.com/bitcoinbeach/',
+    description: 'Proyecto en El Zonte que creó una economía circular Bitcoin. Inspiró la Ley Bitcoin en El Salvador.',
+  },
+  {
+    id: 9,
+    name: 'Área Bitcoin – Argentina',
+    instagramUser: '@areabitcoin',
+    instagramLink: 'https://www.instagram.com/areabitcoin/',
+    description: 'Escuela de educación descentralizada. Promueve la autonomía financiera desde una perspectiva pro-Bitcoin y comunitaria.',
+  },
+  {
+    id: 10,
+    name: 'RedTraSex (uso de BTC para inclusión financiera)',
+    instagramUser: '@redtrasex',
+    instagramLink: 'https://www.instagram.com/redtrasex/',
+    description: 'Red de trabajadoras sexuales de América Latina que usa Bitcoin para empoderamiento financiero y protección de derechos.',
+  },
+  {
+    id: 11,
+    name: 'Bitcoin Chile (Asociación Gremial)',
+    instagramUser: '@bitcoinchile',
+    instagramLink: 'https://www.instagram.com/bitcoinchile/',
+    description: 'Asociación que fomenta el uso de Bitcoin en Chile, con actividades educativas y defensa de políticas públicas abiertas.',
+  },
+  {
+    id: 12,
+    name: 'Bitcoin Iberoamérica',
+    instagramUser: '@bitcoiniberoamerica',
+    instagramLink: 'https://www.instagram.com/bitcoiniberoamerica/',
+    description: 'Fundación que apoya eventos, contenidos educativos y alianzas para difundir Bitcoin en países hispanohablantes.',
+  },
+  {
+    id: 13,
+    name: 'CryptoVendimia – Mendoza, Argentina',
+    instagramUser: '@cryptovendimia',
+    instagramLink: 'https://www.instagram.com/cryptovendimia/',
+    description: 'Evento anual que combina cultura vitivinícola con educación Bitcoin. Fomenta el turismo y la economía circular con BTC.',
+  },
+  {
+    id: 14,
+    name: 'La Bitcoineta',
+    instagramUser: '@bitcoineta',
+    instagramLink: 'https://www.instagram.com/bitcoineta?igsh=MXg3dWRqM25xOHk4Ng==',
+    description: 'Puente entre quienes desarrollan tecnologías que cambian el mundo y los ecosistemas productivos, sociales, culturales y económicos.',
+  },
+  {
+    id: 15,
+    name: 'Bitcoin Paraguay',
+    instagramUser: '@bitcoinparaguay',
+    instagramLink: 'https://www.instagram.com/bitcoinparaguay/',
+    description: 'Comunidad Bitcoin de Paraguay.',
+  },
+];
+
+
+// DONE
